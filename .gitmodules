@@ -1,0 +1,9 @@
+[submodule "csci446-a01"]
+	path = csci446-a01
+	url = https://github.com/Jrkeeling23/csci446-a01.git
+[submodule "csci446-a2"]
+	path = csci446-a2
+	url = https://github.com/Jrkeeling23/csci446-a2.git
+[submodule "csci446-a3"]
+	path = csci446-a3
+	url = https://github.com/Jrkeeling23/csci446-a3.git
